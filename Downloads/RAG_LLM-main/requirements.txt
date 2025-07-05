@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu==1.7.4
+google-generativeai
+python-dotenv
+pillow
+sentence_transformers
+numpy
+faiss
+typing
+requests
+io
+IPython.display
+gTTS
